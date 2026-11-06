@@ -1,0 +1,89 @@
+NETFLIX BUSINESS INSIGHTS REPORT
+=======================================================
+
+1. DATASET OVERVIEW
+------------------------------
+Total Records: 8790
+Total Columns: 10
+Duplicate Records: 0
+
+2. CONTENT TYPE ANALYSIS
+------------------------------
+Movies: 6126
+TV Shows: 2664
+
+3. TOP 10 COUNTRIES
+------------------------------
+country
+United States     3240
+India             1057
+United Kingdom     638
+Pakistan           421
+Not Given          287
+Canada             271
+Japan              259
+South Korea        214
+France             213
+Spain              182
+
+4. RELEASE YEAR ANALYSIS
+------------------------------
+Peak Release Year: 2018
+Number of Releases: 1146
+
+5. CONTENT RATINGS
+------------------------------
+rating
+TV-MA       3205
+TV-14       2157
+TV-PG        861
+R            799
+PG-13        490
+TV-Y7        333
+TV-Y         306
+PG           287
+TV-G         220
+NR            79
+G             41
+TV-Y7-FV       6
+NC-17          3
+UR             3
+
+6. TOP 10 GENRES
+------------------------------
+listed_in
+International Movies        2752
+Dramas                      2426
+Comedies                    1674
+International TV Shows      1349
+Documentaries                869
+Action & Adventure           859
+TV Dramas                    762
+Independent Movies           756
+Children & Family Movies     641
+Romantic Movies              616
+
+7. BUSINESS INSIGHTS
+------------------------------
+1. Movies dominate the Netflix catalog compared with TV Shows.
+2. United States is the leading country based on listed content count (3240 titles).
+3. 2018 has the highest number of releases in the dataset (1146 titles).
+4. International Movies is the most frequently listed genre (2752 entries).
+5. TV-MA is the most common content rating (3205 titles).
+
+8. MISSING VALUE ANALYSIS
+------------------------------
+show_id         0
+type            0
+title           0
+director        0
+country         0
+date_added      0
+release_year    0
+rating          0
+duration        0
+listed_in       0
+
+9. CONCLUSION
+------------------------------
+This analysis provides an overview of Netflix content distribution, geographical availability, release trends, content ratings, and genres. The dashboard and findings can support data-driven content planning and further business analysis.

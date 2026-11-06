@@ -1,0 +1,47 @@
+
+NETFLIX COUNTRY-WISE CONTENT ANALYSIS
+Auspify Technologies Internship
+========================================
+
+DATASET OVERVIEW
+
+Total Country Records: 8790
+Number of Unique Countries: 86
+
+TOP CONTENT-PRODUCING COUNTRIES
+
+1. United States: 3240 titles
+2. India: 1057 titles
+
+TOP 10 COUNTRIES
+
+       country  Total_Content
+ United States           3240
+         India           1057
+United Kingdom            638
+      Pakistan            421
+     Not Given            287
+        Canada            271
+         Japan            259
+   South Korea            214
+        France            213
+         Spain            182
+
+BUSINESS INSIGHTS
+
+1. United States contributes the highest number
+   of titles in the dataset.
+
+2. India ranks second in content
+   production.
+
+3. Netflix content is distributed across
+   86 different countries.
+
+CONCLUSION
+
+The analysis identifies the leading countries
+contributing content to Netflix's catalogue.
+
+========================================
+Task 3 Completed Successfully!

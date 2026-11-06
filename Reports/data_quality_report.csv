@@ -1,0 +1,11 @@
+Column,Data_Type,Missing_Values,Unique_Values
+show_id,object,0,8790
+type,object,0,2
+title,object,0,8786
+director,object,0,4528
+country,object,0,86
+date_added,datetime64[ns],0,1713
+release_year,int64,0,74
+rating,object,0,14
+duration,object,0,220
+listed_in,object,0,513

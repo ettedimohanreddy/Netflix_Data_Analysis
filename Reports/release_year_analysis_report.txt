@@ -1,0 +1,42 @@
+
+NETFLIX RELEASE YEAR TREND ANALYSIS
+Auspify Technologies Internship
+========================================
+
+DATASET OVERVIEW
+
+Total Records Analyzed: 8790
+Years Covered: 1925
+to 2021
+
+YEARLY RELEASE INSIGHTS
+
+Highest Release Year:
+2018
+Total Releases: 1146
+
+Lowest Release Year:
+1925
+Total Releases: 1
+
+Average Yearly Releases:
+118.78
+
+BUSINESS INSIGHTS
+
+1. The year 2018
+   recorded the highest number of content releases.
+
+2. The year 1925
+   recorded the lowest number of content releases.
+
+3. The average number of releases per year
+   is 118.78.
+
+CONCLUSION
+
+The analysis highlights changes in Netflix
+content releases over different years.
+
+========================================
+Task 4 Completed Successfully!

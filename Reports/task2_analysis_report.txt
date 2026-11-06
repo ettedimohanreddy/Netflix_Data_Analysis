@@ -1,0 +1,33 @@
+
+NETFLIX CONTENT TYPE ANALYSIS
+Auspify Technologies Internship
+================================
+
+DATASET OVERVIEW
+Total Content: 8790
+
+CONTENT DISTRIBUTION
+Movies: 6126
+TV Shows: 2664
+
+PERCENTAGE DISTRIBUTION
+Movies: 69.69%
+TV Shows: 30.31%
+
+BUSINESS INSIGHTS
+
+1. Movies account for 69.69% of the dataset.
+
+2. TV Shows account for 30.31% of the dataset.
+
+3. Movie is the larger content category.
+
+4. TV Show is the smaller content category.
+
+CONCLUSION
+
+In this dataset, movie represent
+the larger share of Netflix titles.
+
+================================
+Task 2 Completed Successfully!
